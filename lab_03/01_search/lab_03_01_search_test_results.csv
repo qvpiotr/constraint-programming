@@ -1,0 +1,4 @@
+﻿problem size (N);default;input_order/indomain_min;input_order/indomain_median;first_fail/indomain_min;first_fail/indomain_medium;dom_w_deg/indomain_min
+8;263msec;342msec;242msec;274msec;286msec;229msec
+48;288msec;over 2m;19s777msec;228msec;219msec;241msec
+1000;12s765msec;over 2m;over 2m;12s612msec;18s317msec;12s799msec
